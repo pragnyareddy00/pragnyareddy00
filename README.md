@@ -73,6 +73,13 @@ Skills I'm proficient in and passionate about.
 2. 🥉 2nd Runner Up – Poster Symposium (NMIMS Mumbai) – *"Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking"*  
 3. 📄 Published Paper – ICSSR Project – *Empowering Rural Women Entrepreneurship through Traditional Skills & Modern Markets* under VISION VIKSIT BHARAT@2047  
  
+| 🎓 Certifications |
+|------------------|
+| ✅ Python for Data Science – Acmegrade |
+| ✅ Google Cloud Computing Foundations Certificate – Google |
+| ✅ AWS Academy Cloud Foundations – AWS Academy |
+| ✅ Python Essentials Certification – Cisco |
+| ✅ Network Deployment & Development – Internet Society |
 
 
 
