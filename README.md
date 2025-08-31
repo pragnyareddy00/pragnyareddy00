@@ -60,7 +60,9 @@ Skills I'm proficient in and passionate about.
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [AI Resume Tracking & Skill Gap Analyzer](https://github.com/pragnyareddy00/ResumeParsing) | – Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering. | Python, Streamlit, Pandas, NumPy, Scikit-learn, SpaCy, NLTK, pdfplumber, python-docx, Tesseract, Hugging Face API, PHP |
-| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Trained on Malaysia’s Wikipedia text, this tool performs sentiment analysis, classifying content as positive, negative, or neutral. Also Conducted web scraping, preprocessing, and word frequency analysis to identify sentiment distribution and key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
+| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Trained on Malaysia’s Wikipedia text, this tool performs sentiment analysis, classifying content as positive, negative, or neutral. Also conducted web scraping, preprocessing, and word frequency analysis to identify sentiment distribution and key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
+| [Self Health Care Web Application](https://github.com/pragnyareddy00/Self-Health-Care-Web-Application) | – Built a web platform to provide personalized prescriptions, diet, and exercise plans based on user-inputted age and symptoms, achieving a 40% reduction in unnecessary doctor visits. | HTML, CSS, JavaScript, XAMPP |
+
 
 
 ### 📱 Reach Me : 
