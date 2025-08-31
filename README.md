@@ -1,7 +1,12 @@
 <h1 align="center">
   🙏 Hello, This is Pragnya Reddy
-  <br> Software Developer Intern| Data Scientist | Data Analytics & Visualization | Machine Learning | AWS cloud Practioner |<br> (2022 - 2026) NMIMS Hyderabad, 4th Year B.tech Computer Science (Data Science).
+  <br>
+  <small>
+    Software Developer Intern | Data Scientist | Data Analytics & Visualization | Machine Learning | AWS Cloud Practitioner |
+    <br> (2022 - 2026) NMIMS Hyderabad, 4th Year B.Tech Computer Science (Data Science)
+  </small>
 </h1>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&height=35&lines=%22Think+twice,+code+once%22" />
