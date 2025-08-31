@@ -59,7 +59,7 @@ Skills I'm proficient in and passionate about.
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [AI Resume Tracking & Skill Gap Analyzer](https://github.com/pragnyareddy00/ResumeParsing) | – Built a Streamlit web app for resume parsing, providing ATS score, missing skill detection, and role-based recommendations.<br>– Enabled students to upload resumes and receive personalized job role suggestions tailored for the School of Engineering.<br>– Integrated OCR (Tesseract) and pdfplumber/python-docx for structured resume parsing.<br>– Leveraged Hugging Face API + NLP (SpaCy, NLTK) for AI-generated improvement suggestions. | Python, Streamlit, Pandas, NumPy, Scikit-learn, SpaCy, NLTK, pdfplumber, python-docx, Tesseract, Hugging Face API, PHP |
+| [AI Resume Tracking & Skill Gap Analyzer](https://github.com/pragnyareddy00/ResumeParsing) | – Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering. | Python, Streamlit, Pandas, NumPy, Scikit-learn, SpaCy, NLTK, pdfplumber, python-docx, Tesseract, Hugging Face API, PHP |
 | [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Performed sentiment classification on Wikipedia text using NLP (TextBlob, TF-IDF) and ML models (Logistic Regression, Naive Bayes).<br>– Conducted web scraping, preprocessing, and word frequency analysis to identify sentiment distribution and key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
 
 
