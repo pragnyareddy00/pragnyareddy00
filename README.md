@@ -53,6 +53,12 @@ Skills I'm proficient in and passionate about.
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
 </p>
+---
+## Projects  
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | Built an ML pipeline to classify breast cancer tumors as benign or malignant using clinical biopsy features. Trained and compared models (SVM, Logistic Regression, Random Forest, Gradient Boosting), achieving 98% accuracy with SVM. | Python, Scikit-learn, Pandas, NumPy, Matplotlib |
 
 
 ### 📱 Reach Me : 
