@@ -86,7 +86,6 @@ Skills I'm proficient in and passionate about.
 | ✅ Google Cloud Computing Foundations Certificate – Google |
 | ✅ AWS Academy Cloud Foundations – AWS Academy |
 
-    </td>
   </tr>
 </table>
 
