@@ -59,11 +59,11 @@ Skills I'm proficient in and passionate about.
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [AI Resume Tracking & Skill Gap Analyzer](https://github.com/pragnyareddy00/ResumeParsing) | – Students can upload their resumes to receive ATS scores and personalized job role recommendations tailored for our school of engineering. | Python, Streamlit, Pandas, NumPy, Scikit-learn, SpaCy, NLTK, pdfplumber, python-docx, Tesseract, Hugging Face API, PHP |
-| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Trained on Malaysia’s Wikipedia text, this tool performs sentiment analysis, classifying content as positive, negative, or neutral. Also conducted web scraping, preprocessing, and word frequency analysis to identify sentiment distribution and key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
-| [Self Health Care Web Application](https://github.com/pragnyareddy00/Self-Health-Care-Web-Application) | – Built a web platform to provide personalized prescriptions, diet, and exercise plans based on user-inputted age and symptoms, achieving a 40% reduction in unnecessary doctor visits. | HTML, CSS, JavaScript, XAMPP |
-| [NYC Taxi Fare Prediction System](https://github.com/pragnyareddy00/predictive_analysis_nyc_taxi_fare) | – Estimates taxi fares for NYC green taxis using a dataset from September 2024. Evaluation metrics include Mean Absolute Error (MAE) and R-squared. | Python, Pandas, NumPy, Scikit-learn |
-| [Breast Cancer Classification using Machine Learning](https://github.com/pragnyareddy00/Breast-Cancer-Prediction) | – Built an ML pipeline to classify breast cancer tumors as benign or malignant using clinical biopsy features. Trained and compared models (SVM, Logistic Regression, Random Forest, Gradient Boosting), achieving 98% accuracy with SVM. | Python, TensorFlow, Pandas, Scikit-learn, Matplotlib |
+| [AI Resume Tracking & Skill Gap Analyzer](https://github.com/pragnyareddy00/ResumeParsing) | – Upload resumes to get ATS scores and personalized job role recommendations. | Python, Streamlit, Pandas, NumPy, Scikit-learn, SpaCy, NLTK, pdfplumber, python-docx, Tesseract, Hugging Face API, PHP |
+| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Performs sentiment analysis on Malaysia Wikipedia text and identifies key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
+| [Self Health Care Web Application](https://github.com/pragnyareddy00/Self-Health-Care-Web-Application) | – Provides personalized prescriptions, diet, and exercise plans; reduces unnecessary doctor visits by 40%. | HTML, CSS, JavaScript, XAMPP |
+| [NYC Taxi Fare Prediction System](https://github.com/pragnyareddy00/predictive_analysis_nyc_taxi_fare) | – Predicts NYC green taxi fares using September 2024 dataset; evaluated with MAE and R². | Python, Pandas, NumPy, Scikit-learn |
+| [Breast Cancer Classification using Machine Learning](https://github.com/pragnyareddy00/Breast-Cancer-Prediction) | – Classifies tumors as benign or malignant using SVM, Logistic Regression, Random Forest, and Gradient Boosting; SVM achieved 98% accuracy. | Python, TensorFlow, Pandas, Scikit-learn, Matplotlib |
 
 
 
