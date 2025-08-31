@@ -53,7 +53,8 @@ Skills I'm proficient in and passionate about.
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
 </p>
----
+
+
 ## Projects  
 
 | Project Name | Description | Tech Stack |
