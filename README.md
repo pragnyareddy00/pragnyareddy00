@@ -78,8 +78,6 @@ Skills I'm proficient in and passionate about.
 | ✅ Python for Data Science – Acmegrade |
 | ✅ Google Cloud Computing Foundations Certificate – Google |
 | ✅ AWS Academy Cloud Foundations – AWS Academy |
-| ✅ Python Essentials Certification – Cisco |
-| ✅ Network Deployment & Development – Internet Society |
 
 
 
