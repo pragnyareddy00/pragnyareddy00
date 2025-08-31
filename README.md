@@ -36,7 +36,7 @@ Skills I'm proficient in and passionate about.
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/></a>
 </p>
 
-#### Platforms & Tools
+#### Platforms & Tools familiar with :
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -55,7 +55,7 @@ Skills I'm proficient in and passionate about.
 </p>
 
 
-### 📱 Socials
+### 📱 Reach Me : 
 
 <p>
   <a href="mailto:gpragnyareddy1594@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
