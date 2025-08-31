@@ -59,7 +59,7 @@ Skills I'm proficient in and passionate about.
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | Built an ML pipeline to classify breast cancer tumors as benign or malignant using clinical biopsy features. Trained and compared models (SVM, Logistic Regression, Random Forest, Gradient Boosting), achieving 98% accuracy with SVM. | Python, Scikit-learn, Pandas, NumPy, Matplotlib |
+| [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Performed sentiment classification on Wikipedia text using NLP (TextBlob, TF-IDF) and ML models (Logistic Regression, Naive Bayes).<br>– Conducted web scraping, preprocessing, and word frequency analysis to identify sentiment distribution and key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
 
 
 ### 📱 Reach Me : 
