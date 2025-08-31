@@ -70,9 +70,9 @@ Skills I'm proficient in and passionate about.
 
 | 🏆 Achievements |
 |-----------------|
-| 1. ✅ Accepted Paper at Springer IDBA 2025 – *The Algorithmic Recruiter – AI ATS Systems & Hiring Ethics* |
-| 2. 🥉 2nd Runner Up – Poster Symposium (NMIMS Mumbai) – *"Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking"* |
-| 3. 📄 Published Paper – ICSSR Project – *Empowering Rural Women Entrepreneurship through Traditional Skills & Modern Markets* under VISION VIKSIT BHARAT@2047 |
+| 1. ✅ Accepted Paper at Springer IDBA 2025 – <br>*The Algorithmic Recruiter – AI ATS Systems & Hiring Ethics* |
+| 2. 🥉 2nd Runner Up – Poster Symposium (NMIMS Mumbai) – <br>*"Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking"* |
+| 3. 📄 Published Paper – ICSSR Project – <br>*Empowering Rural Women Entrepreneurship through Traditional Skills & Modern Markets* under VISION VIKSIT BHARAT@2047 |
 
 
 
