@@ -1,10 +1,5 @@
 <h1 align="center">
   🙏 Hello, This is Pragnya Reddy
-  <br>
-  <small>
-    Software Developer Intern | Data Scientist | Data Analytics & Visualization | Machine Learning | AWS Cloud Practitioner |
-    <br> (2022 - 2026) NMIMS Hyderabad, 4th Year B.Tech Computer Science (Data Science)
-  </small>
 </h1>
 
 
