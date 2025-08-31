@@ -63,7 +63,8 @@ Skills I'm proficient in and passionate about.
 | [Sentiment Analysis of Malaysia's Wikipedia Page](https://github.com/pragnyareddy00/Sentiment-Analysis-of-Malaysia-Wikipedia-Page) | – Performs sentiment analysis on Malaysia Wikipedia text and identifies key topics. | Python, NLP, TextBlob, Scikit-learn, Pandas, NumPy |
 | [Self Health Care Web Application](https://github.com/pragnyareddy00/Self-Health-Care-Web-Application) | – Provides personalized prescriptions, diet, and exercise plans; reduces unnecessary doctor visits by 40%. | HTML, CSS, JavaScript, XAMPP |
 | [NYC Taxi Fare Prediction System](https://github.com/pragnyareddy00/predictive_analysis_nyc_taxi_fare) | – Predicts NYC green taxi fares using September 2024 dataset; evaluated with MAE and R². | Python, Pandas, NumPy, Scikit-learn |
-| [Breast Cancer Classification using Machine Learning](https://github.com/pragnyareddy00/Breast-Cancer-Prediction) | – Classifies tumors as benign or malignant using SVM, Logistic Regression, Random Forest, and Gradient Boosting; SVM achieved 98% accuracy. | Python, TensorFlow, Pandas, Scikit-learn, Matplotlib |
+| [Breast Cancer Classification using Machine Learning](https://github.com/pragnyareddy00/Breast-Cancer-Prediction) | – Classifies tumors as benign or malignant; SVM achieved 98% accuracy. | Python, TensorFlow, Pandas, Scikit-learn, Matplotlib |
+| [AbhiBus Database Management System](https://github.com/pragnyareddy00/Abhibus-Data-Management-System) | – Designed a relational database for bus bookings, payments, and schedules with 15+ normalized tables. | MySQL, SQL (DDL/DML, Joins, Subqueries), ER Modeling (Lucidchart/Draw.io) |
 
 
 
