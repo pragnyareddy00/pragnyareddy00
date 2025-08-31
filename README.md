@@ -70,9 +70,12 @@ Skills I'm proficient in and passionate about.
 
 | 🏆 Achievements | 🎓 Certifications |
 |-----------------|------------------|
-| ✅ Accepted Paper at Springer IDBA 2025 – *The Algorithmic Recruiter – AI ATS Systems & Hiring Ethics* | ✅ Google Cloud Computing Foundations (4 Modules) |
-| 🥉 2nd Runner Up – Poster Symposium (NMIMS Mumbai) – *"Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking"* | ✅ AWS Academy Graduate – AWS Academy Cloud Foundation |
-| 📄 Published Paper – ICSSR Project – *Empowering Rural Women Entrepreneurship through Traditional Skills & Modern Markets* under VISION VIKSIT BHARAT@2047 | ✅ Python Essentials Certification (Cisco) |
+| ✅ Accepted Paper at Springer IDBA 2025 – *The Algorithmic Recruiter – AI ATS Systems & Hiring Ethics* | ✅ Python for Data Science – Acmegrade |
+| 🥉 2nd Runner Up – Poster Symposium (NMIMS Mumbai) – *"Emergency Medical Response Using Real-Time Photo Sharing and GPS Tracking"* | ✅ Google Cloud Computing Foundations Certificate – Google |
+| 📄 Published Paper – ICSSR Project – *Empowering Rural Women Entrepreneurship through Traditional Skills & Modern Markets* under VISION VIKSIT BHARAT@2047 | ✅ AWS Academy Cloud Foundations – AWS Academy |
+| 🏅 Additional Achievement – Example: 2nd Prize in Webathon (Developed a website in 8 hours) |  |
+
+
 
 ### 📱 Reach Me : 
 
