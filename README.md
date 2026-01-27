@@ -10,41 +10,16 @@
 ---
 ## 🛠️ My Tech Stack
 
-### 🔤 Languages
 
 | Category | Technologies |
-|--------|--------------|
-| Programming Languages | Python, C++, C#, R |
-| Web Languages | HTML5, CSS3, JavaScript |
-| Query Languages | SQL |
-| Frontend Library | React |
-
----
-
-### 🧩 Frameworks & Libraries
-
-| Category | Tools |
-|--------|-------|
-| Frontend Framework | React |
-| Backend Runtime | Node.js |
-| Data App Framework | Streamlit |
-| Machine Learning | TensorFlow, Scikit-learn |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib |
-
----
-
-### ⚙️ Platforms & Tools
-
-| Category | Tools |
-|--------|-------|
-| Version Control | Git, GitHub |
-| IDEs & Editors | Visual Studio, VS Code, Android Studio |
-| Cloud Platforms | AWS, Google Cloud Platform (GCP), Microsoft Azure |
+|---------|-------------|
+| Languages | Python, C++, C#, R, SQL |
+| Web | HTML5, CSS3, JavaScript, React |
+| Frameworks & Libraries | Node.js, Streamlit, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib |
 | Databases | MySQL, PostgreSQL |
-| Analytics & BI | Power BI |
-| Productivity | Microsoft Excel |
-| Design | Canva |
+| Cloud | AWS, Google Cloud Platform (GCP), Microsoft Azure |
+| Tools | Git, GitHub, VS Code, Visual Studio, Android Studio, Power BI, Excel, Canva |
+
 
 
 
